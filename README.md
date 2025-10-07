@@ -18,6 +18,11 @@
 ![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yIDJsMTEgMTAtMTEgNnoiLz48L3N2Zz4=)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 
+![Adilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilsonjunior1&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonjunior1&layout=default&theme=radical)
+
+![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=adilsonjunior1&repo=meu-repo-exemplo&theme=radical)
+
 
 
