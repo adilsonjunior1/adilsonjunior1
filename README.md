@@ -1,10 +1,19 @@
-### 🧰 Tools & Deploy
+### 🧠 Studying in this moment
 
-[![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge\&logo=vercel)](https://vercel.com/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge\&logo=github)](https://github.com/) 
-[![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge\&logo=git)](https://git-scm.com/) 
-[![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge\&logo=visualstudiocode)](https://code.visualstudio.com/) 
-[![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge\&logo=figma)](https://www.figma.com/) 
-[![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge\&logo=notion)](https://www.notion.so/) 
-[![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge\&logo=windows)](https://www.microsoft.com/windows) 
+#### 🎨 **Frontend**
+[![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)](https://react.dev/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
+[![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite)](https://vitejs.dev/)&nbsp;
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)&nbsp;
+[![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-0D1117?style=for-the-badge&logo=shadcn)](https://ui.shadcn.com/)&nbsp;
 
+#### ⚙️ **Backend & Banco de Dados**
+[![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=for-the-badge&logo=supabase)](https://supabase.com/)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)&nbsp;
+[![Supabase Storage](https://img.shields.io/badge/-Supabase%20Storage-0D1117?style=for-the-badge&logo=supabase)](https://supabase.com/docs/guides/storage)&nbsp;
+
+#### 🧰 **Tools & Deploy**
+[![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel)](https://vercel.com/)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/)&nbsp;
+[![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=for-the-badge&logo=cursor)](https://www.cursor.com/)&nbsp;
+[![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)](https://www.figma.com/)&nbsp;
