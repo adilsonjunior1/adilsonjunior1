@@ -18,5 +18,6 @@
 ![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yIDJsMTEgMTAtMTEgNnoiLz48L3N2Zz4=)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonjunior1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonjunior1&layout=default&theme=radical)
+
 
