@@ -10,7 +10,7 @@
 #### ⚙️ **Backend & Banco de Dados**
 [![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=for-the-badge&logo=supabase)](https://supabase.com/)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)&nbsp;
-[![Supabase Storage](https://img.shields.io/badge/-Supabase%20Storage-0D1117?style=for-the-badge&logo=supabase)](https://supabase.com/docs/guides/storage)&nbsp;
+[![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)](https://en.wikipedia.org/wiki/SQL)&nbsp;
 
 #### 🧰 **Tools & Deploy**
 [![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel)](https://vercel.com/)&nbsp;
